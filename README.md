@@ -14,4 +14,4 @@ Here is the Figma Logo we will create:
 
 ## Read the article
 
-You can [read the article here](https://www.jenniferbland.com/?p=1923&preview=true).
+You can [read the article here](https://www.jenniferbland.com/learn-css-by-creating-the-figma-logo-in-pure-css/).
